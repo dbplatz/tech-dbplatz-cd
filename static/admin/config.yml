@@ -1,5 +1,8 @@
 backend:
-  name: test-repo
+-  name: test-repo
+
++  name: github
++  repo: dbplatz/tech-dbplatz-cd
 
 media_folder: static/assets
 public_folder: assets

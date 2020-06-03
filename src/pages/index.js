@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to your new Tech Gatsby website.</p>
+        <p>Welcome to your new Tech Website.</p>
         {/* <p>Welcome to your new Tech Gatsby website. You are on your home page.</p> */}
         {/* <p>
           This starter comes out of the box with styled components and Gatsby's

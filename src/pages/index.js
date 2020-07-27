@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Blog @ DBplatz"
+    const siteTitle = "Tech @ DBplatz"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Our blog is currently undergoing scheduled maintenance.</p>
+        <p>Our site is currently undergoing scheduled maintenance.</p>
         {/* <p>Welcome to your new Tech Gatsby website. You are on your home page.</p> */}
         {/* <p>
           This starter comes out of the box with styled components and Gatsby's
